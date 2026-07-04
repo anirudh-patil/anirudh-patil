@@ -1,12 +1,11 @@
 <div align="">
 
-# Anirudh Patil 
-
+# Anirudh Patil
 **Backend-Focused Developer | Full-Stack Engineer | IoT Systems Builder**
 
 Building reliable backend systems and real-world applications — from APIs to IoT pipelines.
 
-[LinkedIn](https://linkedin.com/in/anirudh-patil-337902290)                     
+[LinkedIn](https://linkedin.com/in/anirudh-patil-337902290)
 [patilanirudha124@gmail.com](mailto:patilanirudha124@gmail.com)
 
 </div>
@@ -28,10 +27,10 @@ Building reliable backend systems and real-world applications — from APIs to I
 Node.js • Express.js • MongoDB • REST APIs
 
 **Working Knowledge**
-React.js • FastAPI • Firebase
+React.js • FastAPI • Firebase • Supabase
 
 **Foundation**
-C • Java • Python
+C • Java • Python • DSA • OOP
 
 **Tools**
 Git • Postman • Docker • Render
@@ -41,9 +40,7 @@ Git • Postman • Docker • Render
 ## 🔥 Selected Projects
 
 ### 📈 Next-Trade — Stock Portfolio Dashboard
-
 A full-stack application for tracking and managing stock portfolios using live market data.
-
 * Built with React, Node.js, Express, MongoDB
 * Implemented authentication using JWT and secure password handling
 * Integrated external API for real-time stock data
@@ -55,9 +52,7 @@ A full-stack application for tracking and managing stock portfolios using live m
 ---
 
 ### 🏠 Bharat-Stays — Property Booking Platform
-
 A full-stack web platform for listing and booking properties with role-based access.
-
 * Built RESTful backend with Node.js and Express
 * Implemented role-based authentication (user, host, admin)
 * CRUD operations for listings, bookings, and reviews
@@ -67,43 +62,31 @@ A full-stack web platform for listing and booking properties with role-based acc
 
 ---
 
-### ⚡ IoT Energy Monitor
-
-A system for monitoring energy usage using real-time sensor data.
-
-* Backend handles incoming sensor data and stores it in MongoDB
-* Provides API endpoints for frontend dashboards
-* Implements threshold-based alerts for abnormal usage
-* Designed for continuous monitoring use cases
+### ⚡ IoT Energy Monitor — Phantom Load Detector
+A full-stack system for real-time energy monitoring and phantom-load detection using live sensor data.
+* Backend ingests real-time sensor data (via ESP-NOW) and stores it in MongoDB
+* Built REST API endpoints powering a React dashboard for live visualization
+* Implemented configurable threshold-based alerts and historical data logging
+* Achieved ~85% detection accuracy, validating the system end-to-end
 
 🔗 GitHub: https://github.com/Ap0128
 
 ---
 
-## 💼 Experience
-
-**Software Engineer Intern**
-YugaYatra Retail (OPC) Pvt. Ltd. · Feb 2026 – Apr 2026
-
-* Worked on client-facing applications under real deadlines
-* Built and improved backend features for web/mobile systems
-* Contributed to development workflows involving modern tools and deployment
-
----
-
 ## 🏆 Leadership
 
-* **Technical Head**, Embedded Systems Club — Led workshops on STM32, ESP32, Embedded C
-* **Placement Coordinator**, Training & Placement Cell — Assisted in organizing placement drives
+* **Technical Head**, Embedded Systems Club — Led 15+ members and 5+ hands-on workshops on Embedded C and microcontroller interfacing
+* **Placement Drive Coordinator**, Rise & Recruit Club (T&P Cell) — Coordinated logistics for 50+ students across campus recruitment drives
+* **Student Delegate — VLSID 2026** — Represented institution at the International VLSI & Semiconductor Design Conference
 
 ---
 
 ## 🎓 Education
 
-**B.Tech — Electronics & Telecommunication (CS Minor)**
-Rajarambapu Institute of Technology — CGPA: 8.87
+**B.Tech — Electronics & Telecommunication Engineering (CS Minor)**
+Rajarambapu Institute of Technology — CGPA: 9.01
 
-**Diploma — Electronics & Telecommunication**
+**Diploma — Electronics & Telecommunication Engineering**
 Government Polytechnic, Karad — 88.76%
 
 ---
